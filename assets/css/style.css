@@ -1,0 +1,24 @@
+
+body {
+	background-image: url("../images/background.jpg");
+	width: 960px;
+}
+
+#score {
+	font-size: 1.5rem;
+    color: navy;
+
+}
+
+
+.page-header{
+	color: white;
+	margin: 50px;
+	margin-left: 100px;
+
+}
+#user-letters {
+	color: greenyellow;
+	font-size: 2rem;
+	
+}
